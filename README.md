@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**grixtim/grixtim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Miish (it rhymes with 'quiche').
 
-Here are some ideas to get you started:
+I'm a copywriter and copywriting coach for entrepreneuers and online business owners. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aka, I help people write compelling, sales-generating copy for their business in their own voice.
+
+🔭  I'm currently working on a copy coaching app that teaches you how to write persuasive, compelling copy, gives YOU prompts that make it easy to say what you wanna say, and gives you honest, helpful feedback to make your words more effective than ever.
+
+💬  Ask me about nailing the marketing and positioning of your app (and wtf positioning even means).
+
+📫  How to reach me: hello@writelikeyou.ai
+
+😄  Pronouns: she/her
+
+🐮  Fun fact: I live on a dairy farm with 450 fresian cows on the island of Tasmania
+
